@@ -1,0 +1,28 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-image: url(assets/bg.jpg);
+    background-size: cover;
+
+}
+
+img{
+
+    width: 750px;
+    margin-left: 25px;
+    border-radius: 20px;
+
+}
+
+#page{
+
+    width: 800px;
+    margin: 40px auto;
+    background-color: #ffe79e;
+    padding: 20px;
+}
+
