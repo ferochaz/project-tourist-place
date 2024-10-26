@@ -3,6 +3,12 @@
     padding: 0px;
 }
 
+:root{
+
+    font-family: "Dancing Script", cursive;
+    font-size: 21px;
+}
+
 body{
 
     background-image: url(assets/bg.jpg);
@@ -40,3 +46,8 @@ h1{
     margin-bottom: 20px;
 }
 
+footer{
+    width: 165px;
+     background-color: #ffe79e;
+     margin: 10px auto;
+}
