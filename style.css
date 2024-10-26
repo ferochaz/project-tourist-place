@@ -26,3 +26,17 @@ img{
     padding: 20px;
 }
 
+section+section{
+
+    margin-top: 20px;
+}
+
+p{
+    margin-top: 10px;
+}
+
+h1{
+
+    margin-bottom: 20px;
+}
+
